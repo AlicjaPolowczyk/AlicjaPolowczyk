@@ -1,16 +1,22 @@
-### Hi there 👋
+# Alicja's GitHub README
 
-<!--
-**AlicjaPolowczyk/AlicjaPolowczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cześć, mam na imię Alicja. Jestem studentką informatyki na Politechnice Śląskiej na Wydziale Matematyki Stosowanej.
 
-Here are some ideas to get you started:
+## O mnie
+- 👩‍🎓 Studiuję informatykę na Politechnice Śląskiej.
+- 💃 Współzałożycielka HYPE Dance Studio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Umiejętności
+- 🚀 Języki programowania: C#.
+- 🌐 Technologie webowe: MVC, HTML, CSS, JavaScript.
+
+## Kontakt
+Jeśli masz pytania, sugestie lub po prostu chcesz się ze mną skontaktować, śmiało napisz:
+- 📧 Email: alicjapolowczyk1990@gmail.com
+- 💼 LinkedIn: [Alicja LinkedIn](https://www.linkedin.com/in/twoje-imie-nazwisko/)
+
+## HYPE Dance Studio
+Zapraszam również do odwiedzenia profilu naszego studia tanecznego:
+- [HYpe Dance Studio GitHub](https://hypedancestudio.pl/)
+
+Dziękuję za odwiedzenie mojego repozytorium! 🚀
