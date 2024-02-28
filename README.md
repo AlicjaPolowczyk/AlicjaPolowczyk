@@ -3,7 +3,7 @@
 Cześć, mam na imię Alicja. Jestem studentką Informatyki na drugim roku na Politechnice Śląskiej na Wydziale Matematyki Stosowanej.
 
 ## O mnie
-- 👩‍🎓 Studenka Informatyki na Politechnice Śląskiej.
+- 👩‍🎓 Studentka Informatyki na Politechnice Śląskiej.
 - 💃 Współzałożycielka HYPE Dance Studio od 2022 roku.
 
 ## Umiejętności
