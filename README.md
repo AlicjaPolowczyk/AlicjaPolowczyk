@@ -15,7 +15,5 @@ Jeśli masz pytania, sugestie lub po prostu chcesz się ze mną skontaktować, �
 - 📧 Email: alicjapolowczyk1990@gmail.com
 
 ## HYPE Dance Studio
-Zapraszam również do odwiedzenia profilu naszego studia tanecznego:
+Zapraszam również do odwiedzenia profilu studia tanecznego:
 - [HYPE Dance Studio](https://hypedancestudio.pl/)
-
-Dziękuję za odwiedzenie mojego repozytorium! 🚀
