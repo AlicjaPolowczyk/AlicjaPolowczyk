@@ -13,10 +13,9 @@ Cześć, mam na imię Alicja. Jestem studentką Informatyki na drugim roku na Po
 ## Kontakt
 Jeśli masz pytania, sugestie lub po prostu chcesz się ze mną skontaktować, śmiało napisz:
 - 📧 Email: alicjapolowczyk1990@gmail.com
-- 💼 LinkedIn: [Alicja LinkedIn](www.linkedin.com/in/alicja-polowczyk-064739266)
 
 ## HYPE Dance Studio
 Zapraszam również do odwiedzenia profilu naszego studia tanecznego:
-- [HYpe Dance Studio GitHub](https://hypedancestudio.pl/)
+- [HYPE Dance Studio](https://hypedancestudio.pl/)
 
 Dziękuję za odwiedzenie mojego repozytorium! 🚀
